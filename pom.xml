@@ -12,7 +12,7 @@
     </properties>
     <repositories>
     <repository>        
-            <id> bermo101</id>
+            <id>bermo101</id>
             <name>studentRegSystem</name>
             <url>https://github.com/bermo101/studentRegSystem</url>
     </repository>
