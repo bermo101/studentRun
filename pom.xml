@@ -13,8 +13,8 @@
     <repositories>
     <repository>        
             <id>bermo101</id>
-            <name>studentRegSystem</name>
-            <url>https://github.com/bermo101/studentRegSystem</url>
+            <name>StudentRegSystem/target/StudentRegSystem-1.0-SNAPSHOT.jar</name>
+            <url>https://github.com/bermo101/StudentRegSystem/target/StudentRegSystem-1.0-SNAPSHOT.jar</url>
     </repository>
 </repositories>        
  <build>
