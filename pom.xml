@@ -12,9 +12,15 @@
     </properties>
     <repositories>
     <repository>        
+<<<<<<< HEAD
             <id> bermo101</id>
             <name>studentRegSystem</name>
             <url>https://github.com/bermo101/StudentRegSystem/tree/master/</url>
+=======
+            <id>bermo101</id>
+            <name>StudentRegSystem-1.0-SNAPSHOT.jar</name>
+            <url>https://github.com/bermo101/StudentRegSystem/target/</url>
+>>>>>>> origin/master
     </repository>
 </repositories>        
  <build>
