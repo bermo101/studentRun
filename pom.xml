@@ -14,7 +14,7 @@
     <repository>        
             <id> bermo101</id>
             <name>studentRegSystem</name>
-            <url>https://github.com/bermo101/studentRegSystem</url>
+            <url>https://github.com/bermo101/StudentRegSystem/tree/master/</url>
     </repository>
 </repositories>        
  <build>
